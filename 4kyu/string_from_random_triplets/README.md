@@ -1,5 +1,5 @@
 # **Boggle Word Checker**
-
+[Exercise](https://www.codewars.com/kata/57680d0128ed87c94f000bfd)
 
 Write a function that determines whether a string is a valid guess in a Boggle board, as per the rules of Boggle. A Boggle board is a 2D array of individual characters, e.g.:
 

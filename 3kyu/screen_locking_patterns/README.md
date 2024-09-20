@@ -1,4 +1,5 @@
 ## **Screen Locking Patterns**
+[Exercise](https://www.codewars.com/kata/585894545a8a07255e0002f1)
 
 You might already be familiar with many smartphones that allow you to use a geometric pattern as a security measure. To unlock the device, you need to connect a sequence of dots/points in a grid by swiping your finger without lifting it as you trace the pattern through the screen.
 
