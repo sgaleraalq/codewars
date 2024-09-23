@@ -1,5 +1,4 @@
-# **Simple Fun #159: Middle Permutation**
-[Exercise](https://www.codewars.com/kata/58ad317d1541651a740000c5)
+# [**Simple Fun #159: Middle Permutation**](https://www.codewars.com/kata/58ad317d1541651a740000c5)
 
 ## **Task**
 You are given a string ```s```. Every letter in ```s``` appears once.

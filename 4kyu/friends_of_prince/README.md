@@ -1,5 +1,4 @@
-# **Detective, ¡find the suspects!**
-[Exercise](https://www.codewars.com/kata/63ae2ee16ef00700315462cd)
+# [**Detective, ¡find the suspects!**](https://www.codewars.com/kata/63ae2ee16ef00700315462cd)
 
 You are a famous detective who has been hired by the prince of a nation. The prince's biggest treasure has been stolen and while the police have identified the thief, they are not believed to be the mastermind behind the crime. The prince suspects one of his friends to be the real culprit, and has obtained information from the police about the friendships of his friends and the thief, and their respective friends. Your task is to investigate and determine whether any of the prince's friends are suspects in the robbery.
 

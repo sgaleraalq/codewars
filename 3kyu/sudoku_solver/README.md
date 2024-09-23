@@ -1,5 +1,4 @@
-# **Sudoku Solver**
-[Exercise](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
+# [**Sudoku Solver**](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
 
 Write a function that will solve a 9x9 Sudoku puzzle. The function will take one argument consisting of the 2D puzzle array, with the value ```0``` representing an unknown square.
 

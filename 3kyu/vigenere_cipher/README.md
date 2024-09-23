@@ -1,5 +1,4 @@
-# **Breaking the Vigenère Cipher**
-[Exercise](https://www.codewars.com/kata/544e5d75908f2d5eb700052b)
+# [**Breaking the Vigenère Cipher**](https://www.codewars.com/kata/527a5dd3699ad3b9d1000217)
 
 ## **Task**
 

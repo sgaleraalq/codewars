@@ -1,5 +1,4 @@
-# **Help the general decode secret enemy messages**
-[Exercise](https://www.codewars.com/kata/52cf02cd825aef67070008fa)
+# [**Help the general decode secret enemy messages**](https://www.codewars.com/kata/52cf02cd825aef67070008fa)
 
 General Patron is faced with a problem , his intelligence has intercepted some secret messages from the enemy but they are all encrypted. Those messages are crucial to getting the jump on the enemy and winning the war. Luckily intelligence also captured an encoding device as well. However even the smartest programmers weren't able to crack it though. So the general is asking you , his most odd but brilliant programmer.
 

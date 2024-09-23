@@ -1,5 +1,4 @@
-# **Defuse the Bombs!**
-[Exercise](https://www.codewars.com/kata/54d558c72a5e542c0600060f/javascript)
+# [**Defuse the Bombs!**](https://www.codewars.com/kata/54d558c72a5e542c0600060f/javascript)
 
 There are a series of 10 bombs about to go off! Defuse them all! Simple, right?
 
