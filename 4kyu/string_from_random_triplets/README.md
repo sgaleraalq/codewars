@@ -1,18 +1,9 @@
-# [**Boggle Word Checker**](https://www.codewars.com/kata/57680d0128ed87c94f000bfd)
+# [**Recover a secret string from random triplets**](https://www.codewars.com/kata/53f40dff5f9d31b813000774)
 
-Write a function that determines whether a string is a valid guess in a Boggle board, as per the rules of Boggle. A Boggle board is a 2D array of individual characters, e.g.:
+There is a secret string which is unknown to you. Given a collection of random triplets from the string, recover the original string.
 
-```
-[ ["I","L","A","W"],
-  ["B","N","G","E"],
-  ["I","U","A","O"],
-  ["A","S","R","L"] ]
-```
+A triplet here is defined as a sequence of three letters such that each letter occurs somewhere before the next in the given string. "whi" is a triplet for the string "whatisup".
 
-Valid guesses are strings which can be formed by connecting adjacent cells (horizontally, vertically, or diagonally) without re-using any previously used cells.
+As a simplification, you may assume that no letter occurs more than once in the secret string.
 
-For example, in the above board "BINGO", "LINGO", and "ILNBIA" would all be valid guesses, while "BUNGIE", "BINS", and "SINUS" would not.
-
-Your function should take two arguments (a 2D array and a string) and return true or false depending on whether the string is found in the array as per Boggle rules.
-
-Test cases will provide various array and string sizes (squared arrays up to 150x150 and strings up to 150 uppercase letters). You do not have to check whether the string is a real word or not, only if it's a valid guess.
+You can assume nothing about the triplets given to you other than that they are valid triplets and that they contain sufficient information to deduce the original string. In particular, this means that the secret string will never contain letters that do not occur in one of the triplets given to you.
