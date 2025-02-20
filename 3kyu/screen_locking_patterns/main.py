@@ -10,11 +10,14 @@ def permutations(s):
 
 def count_patterns_from(firstPoint, length):
     strings = "ABCDEFGHI"
-    jumps = {"AC":"B","AG":"D","AI":"E",
-            "GA":"D","GI":"H","GC":"E",
-            "IC":"F","IG":"H","IA":"E",
-            "CA":"B","CI":"F","CG":"E",
-            "DF":"E","BH":"E","FD":"E","HB":"E"}
+    jumps   = {
+        "AC":"B","AG":"D","AI":"E",
+        "GA":"D","GI":"H","GC":"E",
+        "IC":"F","IG":"H","IA":"E",
+        "CA":"B","CI":"F","CG":"E",
+        "DF":"E","BH":"E","FD":"E",
+        "HB":"E"
+    }
     # Base cases
     if length>=10 or length<=0: return 0
     if length == 1: return 1
