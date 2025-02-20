@@ -84,10 +84,10 @@ def count_patterns_from(firstPoint, length):
 These are the languages I have trained on:
 
 <div class="languages" style="display: flex; gap: 20px; align-items: center; justify-content: center;">
-    <img src="./static/ic_python.svg" alt="Python" style="max-height: 50px;">
-    <img src="./static/ic_javascript.svg" alt="JavaScript" style="max-height: 50px;">
-    <img src="./static/ic_java.svg" alt="Java" style="max-height: 50px;">
-    <img src="./static/ic_kotlin.svg" alt="C#" style="max-height: 50px;">
+    <img src="./static/ic_python.svg" alt="Python" style="width: 50px; height: 50px;">
+    <img src="./static/ic_javascript.svg" alt="JavaScript" style="width: 50px; height: 50px;">
+    <img src="./static/ic_java.svg" alt="Java" style="width: 50px; height: 50px;">
+    <img src="./static/ic_kotlin.svg" alt="Kotlin" style="width: 50px; height: 50px;">
 </div>
 
 <br>
