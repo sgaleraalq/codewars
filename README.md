@@ -1,21 +1,6 @@
-<style>
-    .codewars-title {
-        display: flex;
-        flex-direction: column;
-        padding: 20px 0px;
-        gap: 20px;
-        align-items: center;
-        justify-content: center;
-    }
-    .codewars-link {
-        text-decoration: none;
-        font-size: clamp(1.5rem, 3vw, 2rem);
-        color: #000;
-    }
-</style>
-<div class="codewars-title">
-  <a href="https://www.codewars.com/" class="codewars-link">Codewars</a>
-  <img src="./codewars.png" alt="Codewars image" style="max-height: 300px"/>
+<div style="text-align: center;">
+  <h1><a href="https://www.codewars.com/">Codewars</a></h1>
+  <img src="./codewars.png" alt="Codewars image" style="max-height: 300px;">
 </div>
 
 
