@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="https://www.codewars.com">
     <h1>Codewars</h1>
@@ -18,6 +17,3 @@ Codewars is a platform where software developers train on **coding challenges** 
 ### Languages I have trained on
 <!-- TODO image -->
 
-=======
-[Codewars](https://www.codewars.com)
->>>>>>> 655eb05fd03fa38a82b08838962d0012cd0fe1fe
